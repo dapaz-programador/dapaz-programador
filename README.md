@@ -13,7 +13,7 @@ Eu sou o Da Paz, sou um programador Front End, atualmente estou aprendendo e cri
 ### Connect with me:
 
 <p>
-  <a href="www.linkedin.com/in/hermesdapaz">
+  <a href="https://www.linkedin.com/in/hermesdapaz/">
     <img align="left"  alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 </p>
